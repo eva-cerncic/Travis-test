@@ -1,2 +1,2 @@
 # Travis-test
-Test repository
+Test repository for travis integration.
